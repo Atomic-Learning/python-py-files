@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Python: .py Files",
+    "slug": "python-py-files",
+    "description": "An introduction to the idea of .py files as units of Python code.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "python-introduction"
     ],
     "related": [
-        "",
-        ""
     ]
 }
