@@ -10,7 +10,8 @@
     ],
     "duration": 2,
     "prerequisites": [
-        "python-introduction"
+        "python-introduction",
+        "programming-interpreters"
     ],
     "related": [
     ]
