@@ -11,7 +11,8 @@
     "duration": 2,
     "prerequisites": [
         "python-introduction",
-        "programming-interpreters"
+        "programming-interpreters",
+        "programming-plain-text-files-structured-files"
     ],
     "related": [
     ]
